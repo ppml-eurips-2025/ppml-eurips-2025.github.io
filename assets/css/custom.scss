@@ -1,0 +1,21 @@
+.organizers-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(120px, 1fr));
+  gap: 16px;
+  justify-items: center;
+  margin-top: 1rem;
+}
+
+.organizer-fig img {
+  width: 120px;
+  height: 120px;
+  object-fit: cover;
+  border-radius: 8px;
+  display: block;
+}
+
+.organizer-fig figcaption {
+  text-align: center;
+  font-size: 0.8em;
+  margin-top: 0.4rem;
+}

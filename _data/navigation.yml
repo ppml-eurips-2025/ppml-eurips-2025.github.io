@@ -1,0 +1,11 @@
+main:
+  - title: About
+    url: "/#about"
+  - title: Call for Papers
+    url: "/#cfp"
+  - title: Program
+    url: "/#program"
+  - title: Organizers
+    url: "/#organizers"
+  - title: Contact
+    url: "/#contact"

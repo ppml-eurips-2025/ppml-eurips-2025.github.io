@@ -1,0 +1,25 @@
+title: "PPML @ EurIPS 2025"
+description: "Privacy-Preserving Machine Learning Workshop"
+url: "https://ppml-eurips-2025.github.io"
+remote_theme: "mmistakes/minimal-mistakes@4.27.3"
+minimal_mistakes_skin: "air"
+
+teaser: /assets/cop2.JPG
+breadcrumbs: true
+author:
+  name             : "Edwige Cyffers"
+
+plugins:
+  - jekyll-include-cache
+  - jekyll-sitemap
+  - jekyll-feed
+
+markdown: kramdown
+kramdown:
+  input: GFM
+
+footer:
+  links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:ppml.eurips@gmail.com"
