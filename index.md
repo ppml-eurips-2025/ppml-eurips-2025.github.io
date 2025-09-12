@@ -36,7 +36,7 @@ feature_row:
 
 ## About {#about}
 
-Welcome to the **Privacy-Preserving Machine Learning Workshop at EurIPS 2025**!
+Welcome to the **Privacy-Preserving Machine Learning Workshop at [EurIPS](eurips.cc) 2025**!
 
 The success of machine learning depends on access to large amounts of training data, which often contains sensitive information. This raises issues of legality, competitiveness, and privacy when data is exposed. Neural networks are known to be vulnerable to privacy attacks, a concern that has recently become more visible with large language models (LLMs), where attacks can be carried out directly through prompting. Differential privacy, the gold standard for privacy-preserving learning, has improved in terms of privacy–utility trade-offs thanks to new trust models and algorithms. However, there are still many open questions on how to bridge the gap between attacks and defenses, from developing auditing methods and more effective attacks to the growing interest in machine unlearning.
 
@@ -61,12 +61,12 @@ We welcome both novel contributions and in-progress work with diverse viewpoints
 ### Topics of Interest
 - Efficient methods for privacy-preserving machine learning  
 - Trust models for privacy, including federated learning and data minimization  
-- Privacy at inference and privacy for large language models (fine-tuning, test-time training) and agent interaction  
+- Privacy at inference and privacy for agents interaction and for large language models (fine-tuning, test-time training)  
 - Privacy-preserving data generation  
-- Differential privacy theory and practice  
+- Differential privacy theory
 - Threat models and privacy attacks  
 - Auditing methods and interpretation of privacy guarantees  
-- Machine unlearning, certifiable machine unlearning, and algorithms  
+- Machine unlearning, certifiable machine unlearning, and new unlearning algorithms  
 - Relationship between privacy and other issues related to Trustworthy Machine Learning  
 
 ### Submission Guidelines
