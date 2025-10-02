@@ -32,7 +32,7 @@ feature_row:
 feature_row_bis:
   - image_path: /assets/images/aure_sq.jpg
     alt: "Aurélien Bellet"
-    excerpt: "**[Arélien Bellet](https://researchers.lille.inria.fr/abellet//)**<br><small>Inria</small>"
+    excerpt: "**[Aurélien Bellet](https://researchers.lille.inria.fr/abellet//)**<br><small>Inria</small>"
   - image_path: /assets/images/tamalika_sq.jpg
     alt: "Tamalika Mukherjee"
     excerpt: "**[Tamalika Mukherjee](https://tamalikamukherjee.com/)**<br><small>Max Planck Institute for Security and Privacy</small>"
