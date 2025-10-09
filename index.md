@@ -39,6 +39,9 @@ feature_row_bis:
   - image_path: /assets/images/antti_sq.jpg
     alt: "Antti Honkela"
     excerpt: "**[Antti Honkela](https://www.cs.helsinki.fi/u/ahonkela/)**<br><small>University of Helsinki</small>"
+  - image_path: /assets/images/rasmus_sq.jpg
+    alt: "Rasmus Pagh"
+    excerpt: "**[Rasmus Pagh](https://rasmuspagh.net/)**<br><small>University of Copenhagen</small>"
 
 
 ---
@@ -60,10 +63,11 @@ This workshop will bring together researchers from academia and industry working
 We invite submissions to the **Privacy-Preserving Machine Learning Workshop at EurIPS 2025**.  
 We welcome both novel contributions and in-progress work with diverse viewpoints.  
 
+**Submission deadline is extended to October 17th**
 
 | Important Dates                  | Date (AoE)           |
 |-------------------------------------------------|----------------------|
-| Paper submission     | **October 10, 2025** |
+| Paper submission     | **October 17, 2025** |
 | Accept/Reject notification            | **October 31, 2025** |
 | Workshop                                  | **December 6–7, 2025** |
 
@@ -83,7 +87,7 @@ We welcome both novel contributions and in-progress work with diverse viewpoints
 - **Format:** up to **5 pages**, excluding references  
 - **Style:** [NeurIPS 2025 template](https://neurips.cc/Conferences/2025/CallForPapers)  
 - **Anonymization:** required (double-blind review)  
-- **Submission site:** via **OpenReview** — link will be announced here soon  
+- **Submission site:** via **OpenReview**: [https://openreview.net/group?id=EurIPS.cc/2025/Workshop/PPML]( https://openreview.net/group?id=EurIPS.cc/2025/Workshop/PPML)
 
 
 This workshop is **non-archival and will not have official proceedings**. Workshop submissions can be submitted to other venues. We welcome ongoing and unpublished work, including papers that are under review at the time of submission. We do not accept submissions that have already been accepted for publication in other venues with archival proceedings. The titles of accepted papers will be published on the website.
