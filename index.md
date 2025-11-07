@@ -47,7 +47,7 @@ feature_row_bis:
     excerpt: "**[Catuscia Palamidessi](https://www.lix.polytechnique.fr/%7Ecatuscia/)**<br><small>Director of Research at INRIA</small>"
   - image_path: /assets/images/sahra_sq.jpg
     alt: "Sahra Ghalebikesabi"
-    excerpt: "**[Sahra Ghalebikesabi](https://sghalebikesabi.github.io/)**<br><small>https://sghalebikesabi.github.io/</small>"
+    excerpt: "**[Sahra Ghalebikesabi](https://sghalebikesabi.github.io/)**<br><small>Research Scientist at Google DeepMind</small>"
 
 ---
 
