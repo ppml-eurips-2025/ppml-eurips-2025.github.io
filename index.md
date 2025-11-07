@@ -42,7 +42,12 @@ feature_row_bis:
   - image_path: /assets/images/rasmus_sq.jpg
     alt: "Rasmus Pagh"
     excerpt: "**[Rasmus Pagh](https://rasmuspagh.net/)**<br><small>University of Copenhagen</small>"
-
+  - image_path: /assets/images/catuscia_sq.jpg
+    alt: "Catuscia Palamidessi"
+    excerpt: "**[Catuscia Palamidessi](https://www.lix.polytechnique.fr/%7Ecatuscia/)**<br><small>Director of Research at INRIA</small>"
+  - image_path: /assets/images/sahra_sq.jpg
+    alt: "Sahra Ghalebikesabi"
+    excerpt: "**[Sahra Ghalebikesabi](https://sghalebikesabi.github.io/)**<br><small>https://sghalebikesabi.github.io/</small>"
 
 ---
 
@@ -63,13 +68,14 @@ This workshop will bring together researchers from academia and industry working
 We invite submissions to the **Privacy-Preserving Machine Learning Workshop at EurIPS 2025**.  
 We welcome both novel contributions and in-progress work with diverse viewpoints.  
 
-**Submission deadline is extended to October 17th**
 
 | Important Dates                  | Date (AoE)           |
 |-------------------------------------------------|----------------------|
 | Paper submission     | **October 17, 2025** |
 | Accept/Reject notification            | **October 31, 2025** |
-| Workshop                                  | **December 6–7, 2025** |
+| Workshop                                  | **December 7, 2025** |
+
+All accepted papers can be presented as posters. Posterboards allow for **A0 portrait** or A1 landscape. (Please use A0 portrait if possible).
 
 
 ### Topics of Interest
@@ -94,13 +100,13 @@ This workshop is **non-archival and will not have official proceedings**. Worksh
 
 We are looking for reviewers to help ensure a fair and constructive review process.  
 Each reviewer will be asked to review at most **3 papers**.  
-If you are interested in serving as a reviewer, **please fill out the following [form](https://forms.gle/o7gtHwc73vpmtK2P9)**.
+
 
 ---
 ## Invited Speakers {#speakers}
 
 {% include feature_row id="feature_row_bis" %}
-and more to be announced
+
 
 ## Program {#program}
 
@@ -113,7 +119,39 @@ and more to be announced
 
 {% include feature_row id="feature_row" %}
 
+## Reviewers
+
+We thank all the reviewers for their work.
+- Bogdan Kulynych
+- Carolin Heinzler
+- Christian Janos Lebeda
+- Christoph H. Lampert
+- Clément Lalanne
+- Clément Pierquin
+- Edwige Cyffers
+- Erchi Wang
+- Jan Schuchardt
+- Joel Daniel Andersson
+- Kostadin Cvejoski
+- Luca Corbucci
+- Lukas Retschmeier
+- Marlon Tobaben
+- Mathieu Dagréou
+- Mina Basirat
+- Nikita Kalinin
+- Quentin Hillebrand
+- Renaud Gaucher
+- Romaric Gaudel
+- Şeyma Selcan Mağara
+- Simone Bombari
+- Vasilis Siomos
+
+## Sponsor
+
+PPML@EurIPS is sponsored by [BILAI](https://bilateral-ai.net/).
+{% include figure popup=true image_path="/assets/images/Bilai.png" alt="Bilai Logo" caption="" %}
 
 
 ## Contact {#contact}
 Questions? Email us at **[ppml.eurips@gmail.com](mailto:ppml.eurips@gmail.com)**
+
