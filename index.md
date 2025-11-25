@@ -44,10 +44,10 @@ feature_row_bis:
     excerpt: "**[Rasmus Pagh](https://rasmuspagh.net/)**<br><small>University of Copenhagen</small>"
   - image_path: /assets/images/catuscia_sq.jpg
     alt: "Catuscia Palamidessi"
-    excerpt: "**[Catuscia Palamidessi](https://www.lix.polytechnique.fr/%7Ecatuscia/)**<br><small>Director of Research at INRIA</small>"
+    excerpt: "**[Catuscia Palamidessi](https://www.lix.polytechnique.fr/%7Ecatuscia/)**<br><small>Inria</small>"
   - image_path: /assets/images/sahra_sq.jpg
     alt: "Sahra Ghalebikesabi"
-    excerpt: "**[Sahra Ghalebikesabi](https://sghalebikesabi.github.io/)**<br><small>Research Scientist at Google DeepMind</small>"
+    excerpt: "**[Sahra Ghalebikesabi](https://sghalebikesabi.github.io/)**<br><small>ex-Google DeepMind</small>"
 
 ---
 
@@ -110,7 +110,33 @@ Each reviewer will be asked to review at most **3 papers**.
 
 ## Program {#program}
 
-**Coming soon!**
+The workshop will be at ITU, Auditorium 0. There are 180 seats and food for everyone! We have six invited talks and 3 shorter contributed talks (CT).
+
+| Time | Program |
+| - | - |
+| 08:50 - 09:00 | Opening |
+| 09:00 - 10:30 | **Interpreting Privacy Guarantees**|
+| |*On quantifying and communicating privacy* Antti Honkela |
+| | *A Causal Perspective on Membership Inference Attacks* Aurélien Bellet |
+| | CT: *Privacy Amplification Persists Under Unlimited Data Release* Clément Pierquin |
+| 10:30 - 11:00 | Coffee Break (*please install the posters during the break*) |
+| 11:00 - 12:30 | **Deep Learning and agents** |
+| | *Operationalising Contextual Integrity in Privacy-conscious agents* Sahra Ghalebikesabi|
+| | CT: *Efficient and Scalable Implementation of Differentially Private Deep Learning without Shortcuts* Sebastian Rodriguez Beltran |
+| | First Poster session |
+| 12:30 - 13:30 | Lunch |
+| 13:30 - 15:00 | **Making DP efficient** |
+| | *Privacy Under Memory Constraints* Tamalika Mukherjee |
+| | *How many random bits are needed for differential privacy?* Rasmus Pagh |
+| | CT: *Better Rates for Private Linear Regression in the Proportional Regime via Aggressive Clipping* Inbar Seroussi|
+| 15:00 - 15:30 | Coffee Break |
+| 15:30 - 17:00 | TBA |
+| | *TBA* Catuscia Palamidessi |
+| | Second Poster session and Awards! |
+
+
+
+	
 
 ---
 
