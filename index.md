@@ -134,9 +134,32 @@ The workshop will be at ITU, Auditorium 0. There are 180 seats and food for ever
 | | *TBA* Catuscia Palamidessi |
 | | Second Poster session and Awards! |
 
+## Accepted papers
 
-
-	
+- "_Privacy Leakage via Output Label Space and Differentially Private Continual Learning_", Marlon Tobaben, Talal Alrawajfeh, Marcus Klasson, Mikko A. Heikkilä, Arno Solin, Antti Honkela
+- "_Privacy Amplification Persists Under Unlimited Data Release_", Clément Pierquin, Aurélien Bellet, Marc Tommasi, Matthieu Boussard
+- "_Subgroup-Level Membership Inference Risks in Synthetic RNA-seq_", Hakime Öztürk, Oliver Stegle
+- "_Privacy Preserving Diffusion Models for Mixed-Type Tabular Data Generation_", Timur Sattarov, Marco Schreyer, Damian Borth
+- "_A New Sensitivity Bound on Sliced Wasserstein Losses for Private Machine Learning_", David Rodríguez-Vítores, Clément Lalanne, Jean-Michel Loubes
+- "_Just a Simple Transformation is Enough for Data Protection in Split Learning_", Andrei Semenov, Philip Zmushko, Alexander Pichugin, Aleksandr Beznosikov
+- "_Mitigating Disparate Impact of Differentially Private Learning through Bounded Adaptive Clipping_", Linzh Zhao, Aki Rehn, Mikko A. Heikkilä, Razane Tajeddine, Antti Honkela
+- "_Unified Privacy Guarantees for Decentralized Learning via Matrix Factorization_", Aurélien Bellet, Edwige Cyffers, Davide Frey, Romaric Gaudel, Dimitri Lerévérend, Francois Taiani
+- "_How to Train Private Clinical Language Models: A Comparative Study of Privacy-Preserving Pipelines for ICD-9 Coding_", Mathieu Dufour, Andrew B. Duncan
+- "_A Law of Data Reconstruction for Random Features (and Beyond)_", Simone Bombari, Leonardo Iurada, Tatiana Tommasi, Marco Mondelli
+- "_Balancing Fairness and Privacy in DP-SGD with Subsampling and Clipping_", Max Cairney-Leeming, Christoph H. Lampert, Amartya Sanyal
+- "_Communication-efficient publication of sparse vectors under DP via Poisson private representation_", Quentin Hillebrand, Vorapong Suppakitpaisarn, Tetsuo Shibuya
+- "_An Interactive Framework for Finding the Optimal Trade-off in Differential Privacy_", Yaohong Yang, Aki Rehn, Sammie Katt, Antti Honkela, Samuel Kaski
+- "_Efficient and Scalable Implementation of Differentially Private Deep Learning without Shortcuts_", Sebastian Rodriguez Beltran, Marlon Tobaben, Joonas Jälkö, Niki Andreas Loppi, Antti Honkela
+- "_iDP-ULDP: Achieving Tight User-Level DP with Heterogeneous Numbers of Records per User_", Johannes Kaiser, Jakob Eigenmann, Daniel Rueckert, Georgios Kaissis
+- "_DP-MicroAdam: Private and Frugal Algorithm for Training and Fine-tuning_", Mihaela Hudişteanu, Nikita Kalinin, Edwige Cyffers
+- "_Differentially Private and Federated Structure Learning in Bayesian Networks_", Ghita Fassy El Fehri, Aurélien Bellet, Philippe Bastien
+- "_Private Rate-Constrained Optimization with Applications to Fair Learning_", Mohammad Yaghini, Tudor Cebere, Michael Menart, Aurélien Bellet, Nicolas Papernot
+- "_Unifying Re-Identification, Attribute Inference, and Data Reconstruction Risks in Differential Privacy_", Bogdan Kulynych, Juan Felipe Gomez, Jamie Hayes, Borja Balle, Flavio Calmon, Georgios Kaissis, Jean Louis Raisaro
+- "_Better Rates for Private Linear Regression in the Proportional Regime via Aggressive Clipping_", Simone Bombari, Inbar Seroussi, Marco Mondelli
+- "_On Optimal Hyperparameters for Differentially Private Deep Transfer Learning_", Aki Rehn, Linzh Zhao, Mikko A. Heikkilä, Antti Honkela
+- "_Sequential Subspace Noise Injection Prevents Accuracy Collapse in Certified Unlearning_", Dolgova Polina, Sebastian U Stich
+- "_Model Agnostic Differentially Private Causal Inference_", Christian Janos Lebeda, Mathieu Even, Aurélien Bellet, Julie Josse
+- "_Beyond Membership: Limitations of Add/Remove Adjacency in Differential Privacy_", Gauri Pradhan, Joonas Jälkö, Santiago Zanella-Beguelin, Antti Honkela
 
 ---
 
