@@ -130,8 +130,8 @@ The workshop will be at ITU, Auditorium 0. There are 180 seats and food for ever
 | | *How many random bits are needed for differential privacy?* Rasmus Pagh |
 | | CT: *Better Rates for Private Linear Regression in the Proportional Regime via Aggressive Clipping* Inbar Seroussi|
 | 15:00 - 15:30 | Coffee Break |
-| 15:30 - 17:00 | TBA |
-| | *TBA* Catuscia Palamidessi |
+| 15:30 - 17:00 | **Federated Learning** |
+| | *Privacy-preserving Federated Histogram Estimation: Local Differential Privacy Strikes Back* Catuscia Palamidessi |
 | | Second Poster session and Awards! |
 
 ## Accepted papers
